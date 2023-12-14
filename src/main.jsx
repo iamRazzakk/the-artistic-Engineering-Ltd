@@ -11,6 +11,7 @@ import Service from './Components/Service/Service';
 import Product from './Components/Product/Product';
 import Contact from './Components/Contact/Contact';
 import Ourwork from './Components/Ourwork/Ourwork';
+import Login from './Components/Login/Login';
 const router = createBrowserRouter([
   {
     path: "/",
@@ -35,6 +36,10 @@ const router = createBrowserRouter([
       {
         path: '/ourwork',
         element: <Ourwork></Ourwork>
+      },
+      {
+        path: '/jaman',
+        element: <Login></Login>
       }
     ]
   },
@@ -42,6 +47,8 @@ const router = createBrowserRouter([
 
 ReactDOM.createRoot(document.getElementById('root')).render(
   <React.StrictMode>
-    <RouterProvider router={router} />
+    <div className='bg-white '>
+      <RouterProvider router={router} />
+    </div>
   </React.StrictMode>,
 )
