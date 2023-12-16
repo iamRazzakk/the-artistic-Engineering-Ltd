@@ -1,0 +1,52 @@
+[
+    {
+        "name": "Electrical System Design",
+        "price": "$1,500",
+        "img": "https://www.cadlog.com/wp-content/uploads/2021/04/solid-edge-electrical-design.jpg"
+    },
+    {
+        "name": "Automation Solutions",
+        "price": "$2,000",
+        "img": "https://www.shutterstock.com/image-photo/automation-software-technology-process-system-600nw-1133982038.jpg"
+    },
+    {
+        "name": "Renewable Energy Solutions",
+        "price": "$2,500",
+        "img": "https://media.licdn.com/dms/image/D5622AQEWkt_ezKkZvA/feedshare-shrink_1280/0/1700812913154?e=1705536000&v=beta&t=2S_nzR48fU9a9LBdWIsklSsyuiiHqlVqU_iCQ1_q9Z4"
+    },
+    {
+        "name": "Smart Home Integration",
+        "price": "$1,800",
+        "img": "https://img.freepik.com/free-vector/internet-things-iot-smart-connection-control-device-network-industry-resident-anywhere-anytime-anybody-any-business-with-internet-it-technology-futuristic-world_1150-61162.jpg?size=626&ext=jpg&ga=GA1.1.1546980028.1702598400&semt=ais"
+    },
+    {
+        "name": "Power Distribution",
+        "price": "$2,200",
+        "img": "https://www.swartzengineering.com/sites/default/files/inline-images/High%20Voltage%20Power%20Distribution.jpg"
+    },
+    {
+        "name": "Energy Efficiency Consulting",
+        "price": "$1,600",
+        "img": "https://www.shutterstock.com/image-photo/blue-chip-consultant-presenting-on-260nw-634569332.jpg"
+    },
+    {
+        "name": "Industrial Power Solutions",
+        "price": "$2,800",
+        "img": "https://i0.wp.com/www.anelectricalengineer.com/wp-content/uploads/2018/02/Industrial-Power-Plants-scaled.jpg?fit=2560%2C1685&ssl=1"
+    },
+    {
+        "name": "Wiring Solutions",
+        "price": "$1,200",
+        "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSVSZtWoShdybzggclPT6z87vpvQ2nMrYYqZQ&usqp=CAU"
+    },
+    {
+        "name": "Circuit Design",
+        "price": "$1,700",
+        "img": "https://www.eeweb.com/wp-content/uploads/articles-nh0001-01-a-single-large-circuit.jpg"
+    },
+    {
+        "name": "Electronic Components Supply",
+        "price": "$900",
+        "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRXMeGwtnd0Z17KlQSo2iuq2z133G5szopBHA&usqp=CAU"
+    }
+]
