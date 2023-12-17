@@ -3,7 +3,7 @@
 const Ourwork = () => {
     return (
         <div>
-            
+            {/* Our work */}
         </div>
     );
 };
